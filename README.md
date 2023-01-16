@@ -2,7 +2,7 @@
 # Команда Número UNO "Las Teteras Desesperadas"
 <h1 align="center">Задача: Автоматизированная обработка сканов документов 
 
-## Состав команды
+## Состав команды:
 - Загальский Игорь - Project Manager
 - Мишин Илья - Product Manager
 - Мурейко Елена
