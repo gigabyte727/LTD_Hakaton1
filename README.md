@@ -11,7 +11,7 @@
 - Майнгерт Владимир
 - Репенко Диана
 
-### Ссылка на Miro - https://miro.com/app/board/uXjVP2DInDc=/?moveToWidget=3458764543238787224&cot=14
+### <a href="https://miro.com/app/board/uXjVP2DInDc=/?moveToWidget=3458764543238787224&cot=14" target="_blank">Ссылка на Miro</a> 
  
 ## Идеи реализации задачи:
 1) Адаптивная бинаризация с высоким порогом
