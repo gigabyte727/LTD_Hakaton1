@@ -4,7 +4,7 @@ json
 random
 pathlib
 difflib
-cv2
+opencv-python
 pandas
 numpy
 PIL
