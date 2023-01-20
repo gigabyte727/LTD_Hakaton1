@@ -82,7 +82,7 @@ LayoutLM — эффективный метод предварительного 
 
 
 <h2 align="center">Итоги и выводы.
-![Sample #1](https://drive.google.com/file/d/1uhEo4PXEK3RjDnzTH9KFcG44exdfGJPa/view?usp=share_link)
+![Sample #1](https://https://github.com/DianaR15/needed_data/blob/main/1_data.png)
  
  
 Ввиду ограниченности по времени реализация ещё сыровата, однако, скрипт показывает удовлетворительные результаты. 
